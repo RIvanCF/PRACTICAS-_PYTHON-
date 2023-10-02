@@ -40,3 +40,12 @@ Numeros decimales positivos y negativos
 decimal = 3.1416 
 decimal_2 = -13.445 
 print(decimal,"",decimal_2)
+
+#BOOL 
+'''
+El sistema booleano solo se rige por dos valores fundamentales, estos son: TRUE(1)  y FALSE(0)
+'''
+valor_bool = True
+valor_bool2 = False
+print(valor_bool)
+print(valor_bool2)
